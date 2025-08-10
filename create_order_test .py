@@ -37,7 +37,7 @@ def test_create_and_get_order(api_url, order_data):
 
 # Пример использования
 if __name__ == "__main__":
-    API_URL = "http://example.com/api"
+    API_URL = https://a66cb31f-3317-428b-ae9e-c9d3cea5b84f.serverhub.praktikum-services.ru/"
     ORDER_DATA = {
         "product_id": 12345,
         "quantity": 2,
